@@ -10,6 +10,10 @@
 
 A discord bot built in the idea to protect while still having a silly side.
 
+Just to be safe are team resets are discord token every few weeks randomly so you dont need to worry about are tokens being stolen :)
+
+Joinare discord to get support: [discord.gg/joinducky](https://discord.gg/joinducky)
+
 [#UpdateLog](docs/UpdateLogs.md)
 
 [#ToComeUpdates](docs/UpdateIdeas.md)

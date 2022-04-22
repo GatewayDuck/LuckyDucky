@@ -17,4 +17,5 @@
 
 - [ ] Random duck pic gen
 - [ ] Quiz about ducks
-
+- [ ] Akinator
+- [ ] 
